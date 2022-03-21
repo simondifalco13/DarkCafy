@@ -58,7 +58,7 @@ export const Welcome=()=>{
                     </ol>
                 </Grid>
                 <Grid item xs={12} md={12}>
-                    <h2>Who we are ?</h2>
+                    <h2>About us</h2>
                 </Grid>
                 {/*PRESENTATION*/}
                 <Presentation/>
